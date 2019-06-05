@@ -1,0 +1,9 @@
+# encoding: utf-8
+
+en:
+  js:
+    login:
+      cognito:
+        name: "Cognito"
+        title: "with Cognito"
+        message: "Authenticating with Cognito (make sure pop up blockers are not enabled)"

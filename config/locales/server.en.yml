@@ -1,0 +1,9 @@
+# encoding: utf-8
+
+en:
+  site_settings:
+    cognito_app_id: "App Client ID"
+    cognito_secure_key: "Secure Key"
+    cognito_aws_region: "Aws Region"
+    cognito_user_pool_id: "User Pool ID"
+    cognito_auth_enabled: "Enable Login via Cognito""

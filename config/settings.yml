@@ -1,0 +1,12 @@
+plugins:
+  cognito_app_id:
+    default: ""
+  cognito_secure_key:
+    default: ""
+  cognito_aws_region:
+    default: ""
+  cognito_user_pool_id:
+    default: ""
+  cognito_auth_enabled:
+    client: true
+    default: false
